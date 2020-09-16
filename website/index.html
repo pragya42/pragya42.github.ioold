@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PARANOID BOOK LADY</title>
+</head>
+<body>
+    <a href= "https://pragya42.github.io/sourcery/"> Sourcery!!!</a>
+    <button onclick="typeWriter()">Hi!!</button>
+    <p id="demo"></p>
+    <script>
+    var i = 0;
+    var txt = 'Your potato computer cannot load this website. LOL!';    
+    var speed = 70;
+    function typeWriter() {
+    if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+</script>
+    
+</body>
+</html>
