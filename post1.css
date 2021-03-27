@@ -9,8 +9,7 @@
  padding-bottom: 20%;
 }
 ul{
-    text-decoration: none;
-}
+    list-style-type: none;
 ul>li{
     text-decoration: none;
 }
