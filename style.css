@@ -18,11 +18,14 @@
 .logo{
     background-color: var(--purple);
 }
-.navbar>a:hover{
+.navbar>ul>li>a:hover{
  color: var(--purple);
 }
 
-
+.navbar>a:hover{
+    color: var(--purple);
+   }
+   
 a{
     text-decoration: none;
 }
