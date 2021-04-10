@@ -54,7 +54,7 @@ a{
     margin-right: 5%;
     width: 80%;
     color: var(--black);
-    font-size: 36px;
+    font-size: 200%;
   }
   .container {
     position: relative;
@@ -65,8 +65,11 @@ a{
 .content{
     margin: 5%;
 }
-.post{
 
+ul>li{
+    text-decoration: none;
+    display: inline;
+    
 }
 
 
