@@ -36,6 +36,7 @@
   
   @media screen and (max-width: 600px) {
     .topnav a{display: none;}
+    .navbar2{display: none;}
     .topnav a.icon {
       float: right;
       display: block;
