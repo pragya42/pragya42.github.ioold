@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pragya Reads!!",
+    "description": "",
+    "home_page_url": "https://pragya42.github.io/pragya42.github.io",
+    "feed_url": "https://pragya42.github.io/pragya42.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://pragya42.github.io/pragya42.github.io/media/website/v1logo.png",
+    "author": {
+        "name": "Pragya Jatav"
+    },
+    "items": [
+        {
+            "id": "https://pragya42.github.io/pragya42.github.io/wuthering-heights-by-emily-bronte/",
+            "url": "https://pragya42.github.io/pragya42.github.io/wuthering-heights-by-emily-bronte/",
+            "title": "Wuthering Heights by Emily Bronte",
+            "summary": "I won't really call this a review, because I am more confused&hellip;",
+            "content_html": "<p>I won't really call this a review, because I am more confused about it than I was the last time I read the book. This book will leave you (or it left me) utterly devastated, lonely and hateful. Not to mention confused. It is a beautifully written book though.  It shines while depicting complicated emotions. And the dialogue! Even though I don't care for a single character in this story, I listen when they talk. Also, the setting  Wuthering heights and Thushcross Grange and the moor is so great. I have way too many tinfoily theories about that place. The only character I have strong feelings about is Nelly and I hate her. There is a huge conversation about her being the unreliable narrator too. And I really liked where Catherine ended up. Not the state but the place. Trying really hard to be spoiler-free. I think I need more time and re-reads to make conversation about the themes of trauma and love etc. in this book. To be honest, I don't know what I read, but it did make me feel extremely agitated, so I guess it's truly good literature. As a good piece of literature is supposed to make you feel heightened emotions. That's not me! Plato said it. Also, I don't think he meant it in a positive way. All I can say for sure is that it's a classic and everyone should experience it at least once. </p>",
+            "image": "https://pragya42.github.io/pragya42.github.io/media/posts/1/test-1.jpg",
+            "author": {
+                "name": "Pragya Jatav"
+            },
+            "tags": [
+                   "Classic Lit"
+            ],
+            "date_published": "2021-09-18T00:04:32+05:30",
+            "date_modified": "2021-09-18T00:04:32+05:30"
+        }
+    ]
+}
