@@ -3,12 +3,36 @@
     <title>Pragya Reads!!</title>
     <link href="https://pragya42.github.io/feed.xml" rel="self" />
     <link href="https://pragya42.github.io" />
-    <updated>2021-09-18T00:04:32+05:30</updated>
+    <updated>2021-09-18T01:20:18+05:30</updated>
     <author>
         <name>Pragya Jatav</name>
     </author>
     <id>https://pragya42.github.io</id>
 
+    <entry>
+        <title>TBR</title>
+        <author>
+            <name>Pragya Jatav</name>
+        </author>
+        <link href="https://pragya42.github.io/tbr/"/>
+        <id>https://pragya42.github.io/tbr/</id>
+
+        <updated>2021-09-18T01:20:18+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pragya42.github.io/media/posts/3/poem1.jpg" alt="" />
+                     Night Watch 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pragya42.github.io/media/posts/3/poem1.jpg" alt="" />
+                <ul>
+<li>Night Watch</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wuthering Heights by Emily Bronte</title>
         <author>
