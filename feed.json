@@ -16,6 +16,7 @@
             "title": "tst",
             "summary": "WFBOHJNWjbfjebfjqebjjjjjjjjjjjjjjjjjjjjjjjjjjj",
             "content_html": "<p>WFBOHJNWjbfjebfjqebjjjjjjjjjjjjjjjjjjjjjjjjjjj</p>",
+            "image": "https://pragya42.github.io/media/posts/4/test-3.jpg",
             "author": {
                 "name": "Pragya Jatav"
             },
@@ -24,7 +25,7 @@
                    "Fantasy"
             ],
             "date_published": "2021-09-18T01:25:29+05:30",
-            "date_modified": "2021-09-18T01:25:29+05:30"
+            "date_modified": "2021-09-18T01:27:29+05:30"
         },
         {
             "id": "https://pragya42.github.io/tbr/",

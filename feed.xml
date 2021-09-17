@@ -3,7 +3,7 @@
     <title>Pragya Reads!!</title>
     <link href="https://pragya42.github.io/feed.xml" rel="self" />
     <link href="https://pragya42.github.io" />
-    <updated>2021-09-18T01:25:29+05:30</updated>
+    <updated>2021-09-18T01:27:29+05:30</updated>
     <author>
         <name>Pragya Jatav</name>
     </author>
@@ -19,14 +19,16 @@
             <category term="Poetry"/>
             <category term="Fantasy"/>
 
-        <updated>2021-09-18T01:25:29+05:30</updated>
+        <updated>2021-09-18T01:27:29+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://pragya42.github.io/media/posts/4/test-3.jpg" alt="" />
                     WFBOHJNWjbfjebfjqebjjjjjjjjjjjjjjjjjjjjjjjjjjj
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://pragya42.github.io/media/posts/4/test-3.jpg" alt="" />
                 <p>WFBOHJNWjbfjebfjqebjjjjjjjjjjjjjjjjjjjjjjjjjjj</p>
             ]]>
         </content>
