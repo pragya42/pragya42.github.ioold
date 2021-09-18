@@ -11,21 +11,6 @@
     },
     "items": [
         {
-            "id": "https://pragya42.github.io/tbr/",
-            "url": "https://pragya42.github.io/tbr/",
-            "title": "TBR",
-            "summary": " Night Watch ",
-            "content_html": "<ul>\n<li>Night Watch</li>\n</ul>",
-            "image": "https://pragya42.github.io/media/posts/3/poem1.jpg",
-            "author": {
-                "name": "Pragya Jatav"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-09-18T01:20:18+05:30",
-            "date_modified": "2021-09-18T01:20:18+05:30"
-        },
-        {
             "id": "https://pragya42.github.io/wuthering-heights-by-emily-bronte/",
             "url": "https://pragya42.github.io/wuthering-heights-by-emily-bronte/",
             "title": "Wuthering Heights by Emily Bronte",
@@ -40,6 +25,21 @@
             ],
             "date_published": "2021-09-18T00:04:32+05:30",
             "date_modified": "2021-09-18T00:04:32+05:30"
+        },
+        {
+            "id": "https://pragya42.github.io/tbr/",
+            "url": "https://pragya42.github.io/tbr/",
+            "title": "TBR",
+            "summary": " I love deadlines, I love the whooshing sound they make as&hellip;",
+            "content_html": "<blockquote>\n<p>I love deadlines, I love the whooshing sound they make as they pass by - Douglas Adams</p>\n</blockquote>\n<p>Here's my to read list for september. It'll be nice to se how I'll read, when I know what I have to read.</p>\n<ul>\n<li><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\"><strong>The fifth elephant by Terry Pratchett</strong>: It's the fifth book in the discworld series, I've been reading the discworld universe for the past year. As far as I know, Captian Vimes has to be a diplomat in this one. I already know this is going to be great! </span></li>\n<li><strong>The Night Watch by Terry Pratchett:</strong> It's the next book after fifth elephant in the Discworld : Ankh - Morpok city watch series. And it has a bit of time travel elememt to it. So I'm pretty sure we'll see the librarian as well. </li>\n<li><strong>The book of Margery Kempe:</strong> In the middle ages travelogues were quite a thing, but most of the travels were pilgrimages. This book isn't just a travelogue, but some people regard it as the first autobiography in English. It was dictated actually. I'm not sure what to expect from this book, but I'm pretty sure it'll be quite intersting. Also she was a mystic.</li>\n<li><strong>The dragonbone chair: </strong>Starting an epic fantasy series is difficult. This is the first book in Memory, Sorrow and Thorn series. I had actually started it in august. I hope I finish it. So far we're just following one character, and he's also not very interesting. But I got to know it gets really good later.</li>\n<li><strong>Ancient Indian History by R. S. Sharma: </strong>I think this a school level book for ancient Indian history. But I get really confused while reading books about ancient India so I guess basics would be nice. </li>\n<li><strong>The eye of the world by Robert Jordan : </strong>It's been so long since I read the wheel of time. This time I'm reading it with a lot of people, so that I am able to finish it till November.</li>\n</ul>",
+            "image": "https://pragya42.github.io/media/posts/3/poem1.jpg",
+            "author": {
+                "name": "Pragya Jatav"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-02T01:20:00+05:30",
+            "date_modified": "2021-09-18T14:49:43+05:30"
         }
     ]
 }
