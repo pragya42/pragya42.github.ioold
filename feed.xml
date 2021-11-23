@@ -3,7 +3,7 @@
     <title>Pragya Reads!!</title>
     <link href="https://pragya42.github.io/feed.xml" rel="self" />
     <link href="https://pragya42.github.io" />
-    <updated>2021-11-23T16:09:09+05:30</updated>
+    <updated>2021-11-23T16:10:34+05:30</updated>
     <author>
         <name>Pragya Jatav</name>
     </author>
@@ -66,6 +66,51 @@
 <p>love the background and the lore but eww</p>
 <p>The idea etc. sound lovely but who wants to see a great world through the eyes of a 13 year old perfect self obseesed kid. Like suppose hermoune narrates harry potter.</p>
 <p>The</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>tst</title>
+        <author>
+            <name>Pragya Jatav</name>
+        </author>
+        <link href="https://pragya42.github.io/tst/"/>
+        <id>https://pragya42.github.io/tst/</id>
+            <category term="Poetry"/>
+            <category term="Fantasy"/>
+
+        <updated>2021-11-23T16:10:34+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pragya42.github.io/media/posts/4/test-3.jpg" alt="" />
+                    WFBOHJNWjbfjebfjqebjjjjjjjjjjjjjjjjjjjjjjjjjjj
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pragya42.github.io/media/posts/4/test-3.jpg" alt="" />
+                <p>WFBOHJNWjbfjebfjqebjjjjjjjjjjjjjjjjjjjjjjjjjjj</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About! </title>
+        <author>
+            <name>Pragya Jatav</name>
+        </author>
+        <link href="https://pragya42.github.io/about/"/>
+        <id>https://pragya42.github.io/about/</id>
+
+        <updated>2021-11-23T16:10:27+05:30</updated>
+            <summary>
+                <![CDATA[
+                     Hi, I am Pragya Jatav, I love books and taking pictures&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://pragya42.github.io/media/posts/2/3240c1979cf10daa7d16a6aa8d56e2fe.webp" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://pragya42.github.io/media/posts/2/responsive/3240c1979cf10daa7d16a6aa8d56e2fe-xs.webp 300w ,https://pragya42.github.io/media/posts/2/responsive/3240c1979cf10daa7d16a6aa8d56e2fe-sm.webp 480w ,https://pragya42.github.io/media/posts/2/responsive/3240c1979cf10daa7d16a6aa8d56e2fe-md.webp 768w ,https://pragya42.github.io/media/posts/2/responsive/3240c1979cf10daa7d16a6aa8d56e2fe-lg.webp 1024w"  alt="" width="337" height="253"></figure>
+<p>Hi, I am<span style="color: #beb2de;"> Pragya Jatav, </span>I  love books and taking pictures of my books. </p>
             ]]>
         </content>
     </entry>
