@@ -11,32 +11,6 @@
     },
     "items": [
         {
-            "id": "https://pragya42.github.io/2021-favourites/",
-            "url": "https://pragya42.github.io/2021-favourites/",
-            "title": "2021 favourites",
-            "author": {
-                "name": "Pragya Jatav"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-01T23:08:13+05:30",
-            "date_modified": "2022-01-01T23:08:13+05:30"
-        },
-        {
-            "id": "https://pragya42.github.io/september-wrap-up/",
-            "url": "https://pragya42.github.io/september-wrap-up/",
-            "title": "September Wrap up!",
-            "summary": " The fifth elephant by Terry Pratchett: The Night Watch by Terry&hellip;",
-            "content_html": "<ul>\n<li><em>The fifth elephant by Terry Pratchett:</em>  </li>\n<li><em>The Night Watch by Terry Pratchett: </em>I</li>\n<li><em>The book of Margery Kempe:</em> </li>\n<li><em>The dragonbone chair: </em></li>\n<li><em>Ancient Indian History by R. S. Sharma: </em></li>\n<li><em>The eye of the world by Robert Jordan :</em> </li>\n</ul>",
-            "author": {
-                "name": "Pragya Jatav"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-01T23:07:50+05:30",
-            "date_modified": "2022-01-01T23:07:50+05:30"
-        },
-        {
             "id": "https://pragya42.github.io/december-tbr/",
             "url": "https://pragya42.github.io/december-tbr/",
             "title": "December TBR",
