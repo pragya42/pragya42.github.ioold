@@ -3,7 +3,7 @@
     <title>Pragya Reads!!</title>
     <link href="https://pragya42.github.io/feed.xml" rel="self" />
     <link href="https://pragya42.github.io" />
-    <updated>2022-04-05T13:33:00+05:30</updated>
+    <updated>2022-04-05T14:19:15+05:30</updated>
     <author>
         <name>Pragya Jatav</name>
     </author>
@@ -158,16 +158,16 @@
         <link href="https://pragya42.github.io/about/"/>
         <id>https://pragya42.github.io/about/</id>
 
-        <updated>2021-11-23T16:12:40+05:30</updated>
+        <updated>2022-04-05T14:19:15+05:30</updated>
             <summary>
                 <![CDATA[
-                     Hi, I am Pragya Jatav, I love books and taking pictures&hellip;
+                     Hi, I am Pragya Jatav, I am a recent graduate working&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--left"><img loading="lazy"  src="https://pragya42.github.io/media/posts/2/3240c1979cf10daa7d16a6aa8d56e2fe.webp" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://pragya42.github.io/media/posts/2/responsive/3240c1979cf10daa7d16a6aa8d56e2fe-xs.webp 300w ,https://pragya42.github.io/media/posts/2/responsive/3240c1979cf10daa7d16a6aa8d56e2fe-sm.webp 480w ,https://pragya42.github.io/media/posts/2/responsive/3240c1979cf10daa7d16a6aa8d56e2fe-md.webp 768w ,https://pragya42.github.io/media/posts/2/responsive/3240c1979cf10daa7d16a6aa8d56e2fe-lg.webp 1024w"  alt="" width="337" height="253"></figure>
-<p>Hi, I am<span style="color: #beb2de;"> Pragya Jatav, </span>I  love books and taking pictures of my books. </p>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://pragya42.github.io/media/posts/2/photo.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://pragya42.github.io/media/posts/2/responsive/photo-xs.jpg 300w ,https://pragya42.github.io/media/posts/2/responsive/photo-sm.jpg 480w ,https://pragya42.github.io/media/posts/2/responsive/photo-md.jpg 768w ,https://pragya42.github.io/media/posts/2/responsive/photo-lg.jpg 1024w"  alt="" width="334" height="334"></figure>
+<p>Hi, I am<span style="color: #beb2de;"> Pragya Jatav, </span>I am a recent graduate working as a data scientist at an insurance firm. I love fantasy, absurdism and history.  </p>
             ]]>
         </content>
     </entry>
