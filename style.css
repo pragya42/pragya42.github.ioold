@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Sura:wght@400;700&display=swap');
+body{
+
+    font-family: 'Sura', serif;
+    /*align-items: center;*/
+    
+    margin-left: 15%;
+    margin-right: 15%;
+}
+header{
+    width : 100%;
+}
+nav{
+    /*position: sticky;*/
+    width : 100%;
+}
+header ul{
+    list-style-type:none;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: #313131 ;
+    color: #111111;
+    font-family: 'Sura', serif;
+    font-size: large;
+    
+}
+header li{ 
+    display: inline;
+    flex: left;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom:1%;
+}
+header ul a:hover{
+    color: #BEB2DE;
+    padding-top: 50%;
+  }
+header ul a:active{
+    color: #BEB2DE;
+}
+#all{
+
+}
+#content{    
+    text-align: justify;
+    font-size: large;
+}
+#main{
+    font-size: 50px;
+    padding-bottom: -100px;
+}
+
+img{
+    height: 30%;
+    width: 30%;
+    border-radius: 50%;
+    float:right;
+    padding: 2%;
+}
+b{color: #BEB2DE;font-weight: lighter;}
+b1{
+    color: #313131;}
+b3{color: #BEB2DE;font-weight: bolder}
+
+#contact{
+    width:100%;
+    float: center;}
+#contact li{
+    text-decoration: none;
+    display: inline;
+    flex: left;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom:1%;
+}
+#contact a{
+    font-size: xx-large;
+    text-decoration: none;
+}
+a:hover{
+    color: #BEB2DE;
+    padding-top: 50%;
+  }
+
+    /*#main{
+    height: 100%;
+    text-align: center;
+    font-size: larger;
+
+}
+*/
+/*#content img{
+    
+    height: 280px;
+    width: 280px;
+    border-radius: 50%;
+    float: inline-start;
+   
+}
+#content{    
+    display: block;
+}
+#content p{
+    text-align: justify;
+    font-size: large;
+}
+  
+/* headin
+g colr #313131
+text #111111
+#BEB2DE*/
+/*
+@media screen and (min-width: 600px) {
+    #content img{
+        
+        height: 30%;
+        width: 30%;
+        border-radius: 50%;
+       
+    }
+  }*?
